@@ -3,6 +3,8 @@
 
 - [2018-0515.Django.First](https://github.com/Rsyncy/R47/blob/master/2018-0515-django.md)
 
-- [2018-0516](https://github.com/Rsyncy/R47/blob/master/2018-0516-django.md)
+- [2018-0516](https://github.com/Rsyncy/R47/blob/master/2018-0516.md)
+
+- [2018-0517](https://github.com/Rsyncy/R47/blob/master/2018-0517.md)
 
 
