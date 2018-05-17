@@ -5,5 +5,4 @@
 
 - [2018-0516](https://github.com/Rsyncy/R47/blob/master/2018-0516-django.md)
 
-![](bg.jpg)
 
