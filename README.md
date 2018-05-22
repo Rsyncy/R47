@@ -7,4 +7,10 @@
 
 - [2018-0517](https://github.com/Rsyncy/R47/blob/master/2018-0517.md)
 
+- [2018-0518](https://github.com/Rsyncy/R47/blob/master/2018-0518.md)
+
+- [2018-0522](https://github.com/Rsyncy/R47/blob/master/2018-0522.md)
+
+
+
 
