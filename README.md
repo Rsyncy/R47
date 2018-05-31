@@ -15,4 +15,4 @@
 
 - [2018-0529](https://github.com/Rsyncy/R47/blob/master/2018-0529.md)
 
-
+- [2018-0531](https://github.com/Rsyncy/R47/blob/master/2018-0531.md)
